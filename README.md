@@ -1,4 +1,4 @@
-basic_google_python
+coding refresh
 ===================
 
-Some basic python code recapping basic principles for Google.  Trees, Sorting, Hash Tables
+a few bits and bobs, btrees, hash maps etc, implemented in python as a refresher.  Will merge this with coding4fun
